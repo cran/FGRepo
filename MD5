@@ -1,0 +1,14 @@
+928e0c40193cb37b214f333bf4862fb0 *DESCRIPTION
+b5b2e20c75457107297b566908b8c29d *NAMESPACE
+4f2b9eeed3c034f21484ec3384e23d4c *R/data.R
+181b5ac5a69bd3e3e542680739e88fd5 *build/partial.rdb
+ce186b4ef4cbb8e173dfca6b0134e49f *data/GWASCat_graph.rda
+17ec4aade628fbd8364ba97411d5c031 *data/cytoband_grch37.rda
+c0b73b13775c7089aab33867daff8637 *data/cytoband_grch38.rda
+c9459c1a38d3d7cb9be0c06662e1a711 *data/gene_names_grch37.rda
+6785d6b75e71992e6f83f19cffdaef4e *data/gene_names_grch38.rda
+01fb6b6714a2067e3190d80dc4b067b3 *man/GWASCat_graph.Rd
+c63cab1fa39ef25b1dff219a6010f467 *man/cytoband_grch37.Rd
+683779a2960a20cc52f8bbd2cb476714 *man/cytoband_grch38.Rd
+5dbc7ec0918946342af91d6573d2fa0d *man/gene_names_grch37.Rd
+89c4f39b9e5b8e6eab1863fb5f69a4e2 *man/gene_names_grch38.Rd
